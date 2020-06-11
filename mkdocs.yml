@@ -1,0 +1,19 @@
+site_name: fewrecipes.com
+site_author: Frankois
+copyright: "Copyright &copy; 2020 Frankois"
+site_url: https://fewrecipes.com
+repo_name: frankois/fewrecipes.github.io
+
+nav:
+    - Home: index.md
+    - Recipes:
+        - Brownie: recipes/brownie.md
+        - Quiche: recipes/quiche.md
+        - Canneloni: recipes/canneloni.md
+        - Lasagnes: recipes/lasagnes.md
+
+    - About: about.md
+
+theme:
+    name: journal
+    custom_dir: custom_theme/
