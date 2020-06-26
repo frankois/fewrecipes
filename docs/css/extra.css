@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "Pangolin";
+    src: url("/fonts/Pangolin-Regular.ttf");
+   }
+
+@font-face {
+    font-family: "Phenomena";
+    src: url("/fonts/Phenomena-ExtraLight.ttf");
+    }
+
+h1, h2 {
+    font-family: Pangolin;
+}
+
+p, ul {
+    font-family: Phenomena;
+    font-size: 20px;
+}
