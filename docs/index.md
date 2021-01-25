@@ -1,11 +1,18 @@
 ![Title](img/fewrecipes_title_index.png)
 
-## Main dishes
+## Plats
 
 - [Quiche](recipes/quiche.md)
 - [Canneloni](recipes/canneloni.md)
 - [Lasagnes](recipes/lasagnes.md)
 - [Pizza](recipes/pizza.md)
+- [Chou-fleur paprika](recipes/chou_fleur_paprika.md)
+
+## Veloutés
+
+- [Velouté de courgettes](recipes/veloute_courgette.md)
+- [Velouté de chou-fleur](recipes/veloute_chou_fleur.md)
+- [Velouté de lentilles corail](recipes/veloute_lentille_corail.md)
 
 ## Desserts
 

@@ -5,13 +5,17 @@ site_url: https://fewrecipes.com
 repo_name: frankois/fewrecipes.github.io
 
 nav:
-    - Home: index.md
-    - Recipes:
+    - Accueil: index.md
+    - Recettes:
         - Brownie: recipes/brownie.md
         - Quiche: recipes/quiche.md
         - Canneloni: recipes/canneloni.md
         - Lasagnes: recipes/lasagnes.md
         - Pizza: recipes/pizza.md
+        - Chou-fleur paprika: recipes/chou_fleur_paprika.md 
+        - Velouté chou-fleur: recipes/veloute_chou_fleur.md
+        - Velouté courgette: recipes/veloute_courgette.md
+        - Velouté lentille: recipes/veloute_lentille_corail.md
 
     - About: about.md
 

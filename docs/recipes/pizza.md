@@ -7,7 +7,7 @@
 4. Laisser reposer près d'un endroit chaud
 ---
 #### Ingredients/pers
-* Eau: 200mL
+- Eau: 200mL
 - Farine: 350g
 - Sel: 10g 
 - Levure boulanger: 1g
