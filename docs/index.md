@@ -17,3 +17,10 @@
 ## Desserts
 
 - [Brownie](recipes/brownie.md)
+
+## Autre
+
+- [Béchamel](recipes/bechamel.md)
+- [Cookie parmesan](recipes/cookies_parmesan.md)
+- [Confiture](recipes/confiture.md)
+- [Ratafia](recipes/ratafia.md)

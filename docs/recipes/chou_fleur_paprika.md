@@ -4,7 +4,7 @@
 
 1. Mélanger dans un bol l'huile de coco, le paprila, l'ail, le cumin et une grosse pincée de sel.
 2. Rincer et couper le chou-fleur en tranches de 2cm d'épaisseur à la verticale et enrober du mélange.
-3. Faire chaufferl'huile d'olive puis ajouter le chou-fleur et laisser cuire 5 minutes/côté.
+3. Faire chauffer l'huile d'olive puis ajouter le chou-fleur et laisser cuire 5 minutes/côté.
 4. Saler, poivrer et ajouter le persil.
 
 #### Ingrédients (pour 4 personnes)

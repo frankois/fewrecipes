@@ -12,10 +12,12 @@ nav:
         - Canneloni: recipes/canneloni.md
         - Lasagnes: recipes/lasagnes.md
         - Pizza: recipes/pizza.md
-        - Chou-fleur paprika: recipes/chou_fleur_paprika.md 
+        - Chou-fleur paprika: recipes/chou_fleur_paprika.md
         - Velouté chou-fleur: recipes/veloute_chou_fleur.md
         - Velouté courgette: recipes/veloute_courgette.md
         - Velouté lentille: recipes/veloute_lentille_corail.md
+        - Bechamel: recipes/bechamel.md
+        - Cookies parmesan: recipes/cookies_parmesan.md
 
     - About: about.md
 
