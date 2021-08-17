@@ -7,6 +7,7 @@
 - [Lasagnes](recipes/lasagnes.md)
 - [Pizza](recipes/pizza.md)
 - [Chou-fleur paprika](recipes/chou_fleur_paprika.md)
+- [Chou-fleur lait de coco curry](recipes/chou_fleur_coco_curry.md)
 - [Dahl de lentilles corail](recipes/dahl_lentilles_corail.md)
 
 ## Veloutés
