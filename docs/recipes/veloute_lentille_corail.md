@@ -1,4 +1,4 @@
-# Velouté de lentille corail
+# Velouté de lentilles corail
 
 #### Recette (10 + 30 minutes)
 
