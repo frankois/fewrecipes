@@ -9,6 +9,7 @@
 - [Chou-fleur paprika](recipes/chou_fleur_paprika.md)
 - [Chou-fleur lait de coco curry](recipes/chou_fleur_coco_curry.md)
 - [Dahl de lentilles corail](recipes/dahl_lentilles_corail.md)
+- [Filets de poulet panés](recipes/poulet_pane.md)
 
 ## Veloutés
 
