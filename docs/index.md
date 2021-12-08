@@ -27,3 +27,4 @@
 - [Cookie parmesan](recipes/cookies_parmesan.md)
 - [Confiture](recipes/confiture.md)
 - [Ratafia](recipes/ratafia.md)
+- [Vin chaud](recipes/vin_chaud.md)
